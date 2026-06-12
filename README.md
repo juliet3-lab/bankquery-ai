@@ -137,11 +137,9 @@ Built on a real bank credit card launch dataset containing:
 
 ## 🔮 What's Next
 
-- [ ] Add visualisation for query results (charts, graphs)
-- [ ] Multi-turn conversation memory
-- [ ] Voice input integration
-- [ ] Deploy to Streamlit Cloud
-
+- [ ] Add visualisation for query results — auto-generate charts for numerical answers
+- [ ] Implement conversation memory — let users ask follow-up questions like "now filter that by location"
+- [ ] Deploy to Streamlit Cloud for public demo access
 ---
 
 ## 👤 Author
