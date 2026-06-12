@@ -146,9 +146,7 @@ Built on a real bank credit card launch dataset containing:
 
 **Florence Arul Juliet** — Banking Domain Professional transitioning into Data Science & AI
 
-- 🔗 LinkedIn: [linkedin.com/in/florence-j](https://linkedin.com/in/florence-j)
 - 💼 3.7 years in BFSI · Fraud Detection · Transaction Analysis
-
 ---
 
 ## 📜 License
