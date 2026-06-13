@@ -129,8 +129,7 @@ Your browser will automatically open at `http://localhost:8501`.
 ## 📊 Banking Domain Context
 
 Built on a real bank credit card launch dataset containing:
-- 1000 customer records
-- 4 linked tables — customers, transactions, credit profiles, campaign data
+- 4 banking tables containing 1,000 customers and 50,000+ transaction records
 - Real-world fields covering demographics, credit behaviour, and transaction patterns
 
 ---
